@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<Showcase>
+    <ImageReminder>
+        <id>1</id>
+        <title>Ragazzi..</title>
+        <description>Mi sembrava di essere stata chiara quando ho detto &quot;mettete apposto quando avete finito di mangiare&quot;!</description>
+        <category>Cucina</category>
+        <date>mar feb 14 11:57:39 2017</date>
+        <usernameAuthor>Giovanna</usernameAuthor>
+        <target>3</target>
+        <usernameSpecificTarget>-</usernameSpecificTarget>
+        <imageUrl>data/image1.jpg</imageUrl>
+    </ImageReminder>
+    <TextReminder>
+        <id>2</id>
+        <title>Gita di famiglia</title>
+        <description>Domani vi porto a fare un giro al lago di S. Giustina! Magari facciamo un pic-nic.</description>
+        <category>tempo libero</category>
+        <date>mar feb 14 12:39:50 2017</date>
+        <usernameAuthor>Marco</usernameAuthor>
+        <target>0</target>
+        <usernameSpecificTarget>-</usernameSpecificTarget>
+    </TextReminder>
+    <TextReminder>
+        <id>3</id>
+        <title>Udienze Luca</title>
+        <description>Appuntamento Mercoledì 14/02 alle 14:00</description>
+        <category>scuola</category>
+        <date>mar feb 14 12:40:41 2017</date>
+        <usernameAuthor>Marco</usernameAuthor>
+        <target>2</target>
+        <usernameSpecificTarget>-</usernameSpecificTarget>
+    </TextReminder>
+    <TextReminder>
+        <id>4</id>
+        <title>Spesa</title>
+        <description>Domani torno tardi dal lavoro quindi non posso fare la spesa..</description>
+        <category>alimentari</category>
+        <date>mar feb 14 12:41:42 2017</date>
+        <usernameAuthor>Marco</usernameAuthor>
+        <target>2</target>
+        <usernameSpecificTarget>-</usernameSpecificTarget>
+    </TextReminder>
+    <TextReminder>
+        <id>5</id>
+        <title>Sorpresa</title>
+        <description>Dobbiamo preparare una sorpresa per il compleanno di Luca, ci vediamo oggi alle 16:00 per fare la spesa di quello che serve.</description>
+        <category>tempo libero</category>
+        <date>mar feb 14 12:54:00 2017</date>
+        <usernameAuthor>Marco</usernameAuthor>
+        <target>2</target>
+        <usernameSpecificTarget>-</usernameSpecificTarget>
+    </TextReminder>
+    <TextReminder>
+        <id>6</id>
+        <title>Aforisma</title>
+        <description>&quot;I computer sono inutili. Ti sanno dare solo risposte.&quot;</description>
+        <category>motivazione</category>
+        <date>mar feb 14 12:55:23 2017</date>
+        <usernameAuthor>Marco</usernameAuthor>
+        <target>0</target>
+        <usernameSpecificTarget>-</usernameSpecificTarget>
+    </TextReminder>
+    <TextReminder>
+        <id>7</id>
+        <title>Perla di saggezza</title>
+        <description>&quot;Chi vuole qualcosa cerca strade. Chi non la vuole, cerca motivi&quot;</description>
+        <category>motivazione</category>
+        <date>mar feb 14 12:56:00 2017</date>
+        <usernameAuthor>Marco</usernameAuthor>
+        <target>0</target>
+        <usernameSpecificTarget>-</usernameSpecificTarget>
+    </TextReminder>
+    <TextReminder>
+        <id>8</id>
+        <title>Appuntamento dentista</title>
+        <description>Ho l'appuntamento dal dentista oggi perciò ci vediamo stasera!</description>
+        <category>impegni</category>
+        <date>mar feb 14 12:58:10 2017</date>
+        <usernameAuthor>Giovanna</usernameAuthor>
+        <target>0</target>
+        <usernameSpecificTarget>-</usernameSpecificTarget>
+    </TextReminder>
+    <TextReminder>
+        <id>9</id>
+        <title>Buongiorno</title>
+        <description>Buongiorno!! sono uscita presto oggi, la colazione è pronta in cucina.</description>
+        <category>tempo libero</category>
+        <date>mar feb 14 15:02:37 2017</date>
+        <usernameAuthor>Giovanna</usernameAuthor>
+        <target>0</target>
+        <usernameSpecificTarget>-</usernameSpecificTarget>
+    </TextReminder>
+    <ImageReminder>
+        <id>10</id>
+        <title>Il menu di oggi :D</title>
+        <description>Oggi sono in vena di cucinare, ecco che cosa vi preparo!!</description>
+        <category>cucina</category>
+        <date>mar feb 14 12:32:10 2017</date>
+        <usernameAuthor>Giovanna</usernameAuthor>
+        <target>0</target>
+        <usernameSpecificTarget>-</usernameSpecificTarget>
+        <imageUrl>data/image4.jpg</imageUrl>
+    </ImageReminder>
+    <ImageReminder>
+        <id>11</id>
+        <title>Devi essere più ambizioso</title>
+        <description>Ragazzo mio se vuoi diventare come l'autore di questo libro, cioè un genio, il libro lo devi trattare bene.</description>
+        <category>libri</category>
+        <date>mar feb 14 12:38:02 2017</date>
+        <usernameAuthor>Marco</usernameAuthor>
+        <target>1</target>
+        <usernameSpecificTarget>Luca</usernameSpecificTarget>
+        <imageUrl>data/image3.jpg</imageUrl>
+    </ImageReminder>
+</Showcase>
