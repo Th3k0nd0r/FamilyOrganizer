@@ -1,3 +1,3 @@
 # FamilyOrganizer
 
-Progetto Qt Programmazione ad Oggetti - Laurea in Informatica, Università di Padova - Mustafa Hafidi
+Project based on Qt for the class of object oriented programming @ University of Padua
